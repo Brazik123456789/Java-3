@@ -1,0 +1,4 @@
+2020-02-16 22:48:10 INFO   user:27 - This is info
+2020-02-16 22:48:10 WARN   user:28 - This is warn
+2020-02-16 22:48:10 ERROR  user:29 - This is error
+2020-02-16 22:48:10 FATAL  user:30 - This is fatal
