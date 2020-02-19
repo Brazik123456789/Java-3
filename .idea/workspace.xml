@@ -2,22 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e961fd3e-b8be-441c-b976-b5862ec1529d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_6/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_6/DZ/dz_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_6/DZ/dz_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_6/MainL6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_6/lolg4j.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CalcMassAddTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestCalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestMass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Test_dz2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_7/AfterSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_7/BeforeSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_7/ClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_7/MainClassForTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_7/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/27012020.iml" beforeDir="false" afterPath="$PROJECT_DIR$/27012020.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -55,7 +46,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Lesson_6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../27012020" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -90,29 +81,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Test_dz2">
+  <component name="RunManager" selected="Application.MainClassForTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="dz_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_6.DZ.dz_1" />
+    <configuration name="MainClassForTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_7.MainClassForTest" />
       <module name="27012020" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_6.DZ.*" />
+          <option name="PATTERN" value="Lesson_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -188,19 +179,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.TestMass" />
-      <item itemvalue="Application.dz_1" />
-      <item itemvalue="JUnit.Test_dz2" />
       <item itemvalue="Application.lolg4j" />
+      <item itemvalue="JUnit.TestMass" />
+      <item itemvalue="JUnit.Test_dz2" />
       <item itemvalue="JUnit.Test_dz2.Test3" />
+      <item itemvalue="Application.MainClassForTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainClassForTest" />
         <item itemvalue="JUnit.Test_dz2" />
         <item itemvalue="JUnit.Test_dz2.Test3" />
         <item itemvalue="Application.lolg4j" />
         <item itemvalue="JUnit.TestMass" />
-        <item itemvalue="Application.dz_1" />
       </list>
     </recent_temporary>
   </component>
